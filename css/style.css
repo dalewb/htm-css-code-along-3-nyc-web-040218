@@ -1,4 +1,7 @@
-@import url("https://fonts.googleapis.com/css?family=Elsie" rel="stylesheet")
+<style>
+@import url("https://fonts.googleapis.com/css?family=Elsie" rel="stylesheet");
+@import url('https://fonts.googleapis.com/css?family=Clicker+Script');
+</style>
 
 /*This is a comment!*/
 /*CSS syntax:
@@ -21,7 +24,7 @@ figcaption {
   line-height: 1.5em;
   font-family: Georgia, "Times New Roman", Sans-Serif; */
   
-  font: normal 0.75em/1.5em Gorgia, "Times New Roman", Sans-Serif;
+  font: normal 0.75em/1.5em Elsie, "Times New Roman", Sans-Serif;
   color: #777;
   text-align: right;
 }
